@@ -1,0 +1,11 @@
+Tian Fang, Ye Ding,
+A sampling-based motion planning method for active visual measurement with an industrial robot,
+Robotics and Computer-Integrated Manufacturing,
+Volume 76,
+2022,
+102322,
+ISSN 0736-5845,
+https://doi.org/10.1016/j.rcim.2022.102322.
+(https://www.sciencedirect.com/science/article/pii/S0736584522000114)
+Abstract: This paper proposes a universal and complete framework for active visual measurement with an industrial robot based on sampling-based motion planning techniques with high efficiency and excellent performance. The proposed path planner is based on a tree-based randomized planning scheme to generate a point-to-point path satisfying the camera's field of view constraints, the occlusion-free and collision-free constraints in the joint space. The speed planner first smoothes the path based on the B-spline curve and then carries out the time-optimal speed planning satisfying the joint velocity, acceleration, jerk constraints, and the camera's velocity constraints. The proposed method in this paper focuses on improving the motion performance of the visual measurement. The satisfaction of the joint jerk constraints and the camera's velocity constraints enables the robot to run smoothly along the generated trajectory, reducing the vibration of the camera fixed on the end effector significantly. Therefore, the pictures taken by the camera at a certain frequency can all be used for the measured workpiece's point cloud reconstruction, and the experiments verified the feasibility and effectiveness of our proposed framework.
+Keywords: Visual servoing; B-spline; Calibration; Sensor planning; Active visual measurement
